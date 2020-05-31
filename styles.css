@@ -1,0 +1,42 @@
+body {
+  color:#f172a1;
+  font-family: Verdana, sans-serif;
+  font-size: 14pt;
+  text-indent: 2pt;
+}
+a:link {
+  color: #f172a1;
+}
+a:visited {
+  color: #9a1750;
+}
+a:hover {
+  color: #ee4c7c;
+}
+h2 {
+  text-align: center;
+  color: #9a1750;
+}
+h3{
+  color:#e64398;
+
+}
+
+h1 {
+  text-align: center;
+  color: #e64398;
+}
+
+.map-container-5{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+  }
+  .map-container-5 iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+  }
